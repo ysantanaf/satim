@@ -11,6 +11,7 @@ Plotting geographical data
 survey of practices in MEOM
 
 basemap vs cartopy -> they will merge in 2020
+
 new version of cartopy : take stuff from basemap
 
 geoviews
@@ -30,4 +31,4 @@ gallery :
 matplotlib module to put pictures on google earth
 resolution of pictures in python
 
-gallery: a bit hidden on github and maybe add it clean to MEOM webpage
+gallery: a bit hidden on github but public and maybe add it clean to MEOM webpage
