@@ -1,6 +1,6 @@
 # Discussion SATIM December, the 13th 2018
 
-presentation by Stéphanie : [pdf]()
+Presentation by Stéphanie : [pdf](https://ige-meom-opendap.univ-grenoble-alpes.fr/thredds/fileServer/meomopendap/extract/SATIM_DISC/SATIM1_maps_SLX_13-12-2018.pdf)
 
 
 What to do with informations ? Put it somewhere on github ?
