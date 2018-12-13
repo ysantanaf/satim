@@ -1,6 +1,8 @@
 # Discussion SATIM December, the 13th 2018
 
 presentation by Stéphanie : [pdf]()
+
+
 What to do with informations ? Put it somewhere on github ?
 List of new topic also available at all times.
 
